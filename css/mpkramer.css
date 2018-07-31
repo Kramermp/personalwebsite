@@ -1,0 +1,9 @@
+#carouselExampleIndicators {
+  align-content: center;
+  margin: auto;
+}
+
+.carousel-inner img{
+margin:auto;
+display: block;
+}
