@@ -11,4 +11,8 @@ public class PersonalWebsiteApplication {
 		SpringApplication.run(PersonalWebsiteApplication.class, args);
 	}
 
+	@GetMapping
+	public String helloWorld(){
+		return "Hello World";
+	}
 }
