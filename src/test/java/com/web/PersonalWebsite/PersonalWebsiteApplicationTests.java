@@ -1,4 +1,4 @@
-package com.web.PersonalWebsite;
+package com.web.personalwebsite;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

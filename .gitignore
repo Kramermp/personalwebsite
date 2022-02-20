@@ -6,6 +6,9 @@ target/
 
 ### Config Information ###
 *.ini
+src/main/resources/application.properties
+**.properties
+*/application.properties
 
 ### STS ###
 .apt_generated
